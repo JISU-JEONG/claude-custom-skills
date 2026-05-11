@@ -1,0 +1,19 @@
+# Claude Code local-only
+.claude/settings.local.json
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (bundled scripts may generate)
+__pycache__/
+*.pyc
+*.pyo
+
+# bkit session state
+.bkit-memory.json
+.pdca-status.json
